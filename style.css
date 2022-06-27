@@ -1,0 +1,32 @@
+*[
+    
+]
+
+h4 {
+    color: pink;
+    border: groove black 5px;
+    /*
+    border-style: dashed;
+    border-color: black;
+    border-width: 5px;
+    */
+}
+
+ul{
+    color:aqua;
+    font-size:20px;
+}
+
+body{
+    
+    background-color: 	#8B0000;
+    background-size: cover;
+}
+
+.test{
+    color:greenyellow;
+}
+
+#titulo{
+    font-size: 50px;
+}
